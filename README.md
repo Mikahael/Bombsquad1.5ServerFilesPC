@@ -7,7 +7,7 @@
 
 *Also works with the app.
 
-*Make your text_on_map edits on maps.py
+*M̼a̼k̼e̼ y̼o̼u̼r̼ t̼e̼x̼t̼_o̼n̼_m̼a̼p̼ e̼d̼i̼t̼s̼ o̼n̼ m̼a̼p̼s̼.p̼y̼
 
 
 # HOW TO USE FOR APP
