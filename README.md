@@ -7,7 +7,8 @@ Server files for 1.5.
 
 +Also works with the app.
 
-#how to use for app
+
+# HOW TO USE FOR APP
 
 +open ba_data folder
 
@@ -31,7 +32,7 @@ Server files for 1.5.
 
 +It will say replace files or folder, press replace all
 
-#thanks
+# THANKS
 
 //Thanks to PCModder/PC231392/PC290717 (All are Me)
 
