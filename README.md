@@ -15,11 +15,15 @@ It will say replace files or folder, press replace all
 
 #how to use for server
 
-#open dist folder
-#open ba_data
-#open python folder
-#paste my bastd and ba folders into the python folder
-#It will say replace files or folder, press replace all
++open dist folder
+
++open ba_data
+
++open python folder
+
++paste my bastd and ba folders into the python folder
+
++It will say replace files or folder, press replace all
 
 #thanks
 
