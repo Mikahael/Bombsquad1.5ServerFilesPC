@@ -1,4 +1,4 @@
-# Bombsquad1.5ServerFilesPC
+# Bombsquad1.5||ServerFilesPCModder
 *Server files for 1.5.
 
 #these are Server files made specifically for bombsquad versions 1.5
