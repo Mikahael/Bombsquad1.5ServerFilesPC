@@ -7,6 +7,8 @@
 
 *Also works with the app.
 
+*make you textonmap edits on map.py
+
 
 # HOW TO USE FOR APP
 
