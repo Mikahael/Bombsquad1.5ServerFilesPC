@@ -42,5 +42,7 @@ Server files for 1.5.
 //Thanks to Bombdash
 
 //Thanks to Arter Tendean / Animemoeus
-Thanks to Esie-Eyen
-Special thanks to ByAngel3L and Froshlee14
+
+//Thanks to Esie-Eyen
+
+//Special thanks to ByAngel3L and Froshlee14
