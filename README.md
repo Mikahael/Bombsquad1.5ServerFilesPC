@@ -14,11 +14,13 @@
 
 +open python folder
 
++delete the current ba and bastd folders only in the python folder
+
 +copy my bastd and ba folders and paste it into your python folder,
 
 +the python folder is located in ba_data folder.
 
-+It will say replace files or folder, press replace all
++It may say replace files or folder, press replace all
 
 # HOW TO USE FOR SERVER
 
@@ -28,9 +30,11 @@
 
 +open python folder
 
++delete the current ba and bastd folders only in the python folder
+
 +paste my bastd and ba folders into the python folder
 
-+It will say replace files or folder, press replace all
++It may say replace files or folder, press replace all
 
 # THANKS
 
