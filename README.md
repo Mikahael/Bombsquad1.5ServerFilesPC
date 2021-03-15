@@ -7,34 +7,34 @@
 
 *Also works with the app.
 
-*M̼a̼k̼e̼ y̼o̼u̼r̼ t̼e̼x̼t̼_o̼n̼_m̼a̼p̼ e̼d̼i̼t̼s̼ o̼n̼ m̼a̼p̼s̼.p̼y̼
+*Make your text_on_map edits in maps.py
 
 
 # 𝐻𝑜𝓌 𝓉𝑜 𝓊𝓈𝑒 𝒻𝑜𝓇 𝒜𝒫𝒫
 
-+open ba_data folder
++Open ba_data folder
 
-+open python folder
++Open python folder
 
-+delete the current ba and bastd folders only in the python folder
++Delete the current ba and bastd folders only in the python folder
 
-+copy my bastd and ba folders and paste it into your python folder,
++Copy my bastd and ba folders and paste it into your python folder,
 
-+the python folder is located in ba_data folder.
++The python folder is located in ba_data folder.
 
 +It may say replace files or folder, press replace all
 
 # 𝐻𝑜𝓌 𝓉𝑜 𝓊𝓈𝑒 𝒻𝑜𝓇 𝒮𝑒𝓇𝓋𝑒𝓇
 
-+open dist folder
++Open dist folder
 
-+open ba_data
++Open ba_data
 
-+open python folder
++Open python folder
 
-+delete the current ba and bastd folders only in the python folder
++Delete the current ba and bastd folders only in the python folder
 
-+paste my bastd and ba folders into the python folder
++Paste my bastd and ba folders into the python folder
 
 +It may say replace files or folder, press replace all
 
