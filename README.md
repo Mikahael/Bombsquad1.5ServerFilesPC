@@ -22,7 +22,7 @@
 
 +The python folder is located in ba_data folder.
 
-+It may say replace files or folder, press replace all
++It may say replace files or folder, if so, press replace all
 
 # 𝐻𝑜𝓌 𝓉𝑜 𝓊𝓈𝑒 𝒻𝑜𝓇 𝒮𝑒𝓇𝓋𝑒𝓇
 
@@ -36,7 +36,7 @@
 
 +Paste my bastd and ba folders into the python folder
 
-+It may say replace files or folder, press replace all
++It may say replace files or folder, if so, press replace all
 
 # 𝒯𝒽𝒶𝓃𝓀𝓈
 
