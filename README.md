@@ -1,11 +1,11 @@
 # Bombsquad1.5ServerFilesPC
-Server files for 1.5.
+*Server files for 1.5.
 
 #these are Server files made specifically for bombsquad versions 1.5
 
-+It works with server version 1.5.29
+*It works with server version 1.5.29
 
-+Also works with the app.
+*Also works with the app.
 
 
 # HOW TO USE FOR APP
@@ -20,7 +20,7 @@ Server files for 1.5.
 
 +It will say replace files or folder, press replace all
 
-#how to use for server
+# HOW TO USE FOR SERVER
 
 +open dist folder
 
