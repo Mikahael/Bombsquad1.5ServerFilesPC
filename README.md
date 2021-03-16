@@ -7,6 +7,8 @@
 
 *Also works with the app.
 
+*Extract the zip file and instructions on how to install are below
+
 *Make your text_on_map edits in maps.py
 
 
